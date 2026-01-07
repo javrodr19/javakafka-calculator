@@ -1,0 +1,29 @@
+# Maven build output
+target/
+dependency-reduced-pom.xml
+
+# Maven wrapper (optional - some prefer to commit these)
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local environment
+.env
+.env.local
